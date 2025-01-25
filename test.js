@@ -1,6 +1,6 @@
-function solution(n) {
-  var answer = Math.ceil(n / 7);
+function solution(array) {
+  var answer = 0;
   return answer;
 }
 
-console.log(solution(15));
+console.log(solution());
