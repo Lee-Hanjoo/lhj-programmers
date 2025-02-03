@@ -1,6 +1,6 @@
-function solution(array) {
-  var answer = 0;
-  return answer;
+function solution(my_string) {
+    var answer = '';
+    return answer;
 }
 
-console.log(solution());
+console.log(solution("abCdEfghIJ"));
