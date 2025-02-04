@@ -1,6 +1,10 @@
-function solution(my_string) {
+function solution(rsp) {
     var answer = '';
+    
+    console.log([...rsp]);
+    
+
     return answer;
 }
 
-console.log(solution("abCdEfghIJ"));
+console.log(solution('205'));
